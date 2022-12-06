@@ -7,3 +7,5 @@ new row
 new row
 
 document changed
+
+new style
