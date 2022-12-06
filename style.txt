@@ -9,3 +9,5 @@ new row
 document changed
 
 new style
+
+style
